@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class Spawner : MonoBehaviour
 {
-    [SerializeField] private Coin _prefab;
+    [SerializeField] private Enemy _prefab;
     [SerializeField] private Transform[] _spawnPoints;
     [SerializeField] private float _sleepTime;
 

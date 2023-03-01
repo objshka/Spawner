@@ -333,13 +333,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d0d529a4a692c9488f0c6be689a2a73, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _prefab: {fileID: 8443554076940840167, guid: eae9d1aca4e405f429bf1e100a327cd9, type: 3}
+  _prefab: {fileID: 6735013800266688166, guid: 20b648f942f67e34a80b20b4d0af0760, type: 3}
   _spawnPoints:
   - {fileID: 964991928}
   - {fileID: 1752553095}
   - {fileID: 2030321793}
   - {fileID: 1096943696}
-  _sleepTime: 2
+  _sleepTime: 1
 --- !u!4 &1510409738
 Transform:
   m_ObjectHideFlags: 0
