@@ -339,7 +339,7 @@ MonoBehaviour:
   - {fileID: 1752553095}
   - {fileID: 2030321793}
   - {fileID: 1096943696}
-  _sleepTime: 1
+  _sleepTime: 2
 --- !u!4 &1510409738
 Transform:
   m_ObjectHideFlags: 0
